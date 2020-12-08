@@ -13,7 +13,10 @@ Pour avancer dans le jeu, on devra aller à l'école, acheter des biens ou les r
 Seulement avec du pyhton
 
 ### Partage des tâches
-Haroun-----Interface graphique \n
+Haroun-----Interface graphique 
+
 Rayene-----Interface graphique
+
 Aurélie----Code pour les différentes parties
+
 Clara------Code pour les différentes parties
